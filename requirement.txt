@@ -1,2 +1,9 @@
 python-telegram-bot==20.7
+
 python-dotenv==1.0.0
+
+python-telegram-bot
+
+nest-asyncio
+
+python-telegram-bot[webhooks]
